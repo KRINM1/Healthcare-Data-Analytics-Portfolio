@@ -18,8 +18,5 @@ Power BI (or Oracle Analytics Cloud), Excel, SQL
 - [State/Region] shows highest rates; targeted follow-ups reduced readmissions  
 - Top hospitals <10% readmission via post-discharge programs
 
-**Next Steps**  
-Add predictive modeling using OCI AI (Generative AI + Vector Search).
-
 **Preview**
 ![Preview](../assets/readmissions_dashboard.png)
