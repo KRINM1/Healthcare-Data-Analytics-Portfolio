@@ -8,25 +8,24 @@ Projects focus on using **Oracle Cloud, Power BI, and AI-driven analytics** to e
 
 ---
 
-Featured Projects  
+ Featured Projects  
 
- Hospital Readmissions Dashboard  
-**Tools:** Oracle Analytics Cloud, Excel  
-- Visualized CMS readmission data to track chronic disease outcomes and patient safety metrics.  
-- Built visuals for readmissions, LOS, and infection rates.  
-- Demonstrated healthcare quality improvement through data storytelling.  
+#### 🏥 [Hospital Readmissions Dashboard](./Hospital-Readmissions-Dashboard/)
+- Visualizes 30-day readmission rates and quality metrics using CMS Hospital data  
+- Tools: Power BI, Oracle Analytics Cloud, Excel  
+- KPIs: LOS, mortality, infection rates  
+- ![Preview](./Hospital-Readmissions-Dashboard/../assets/readmissions_dashboard.png)
 
- AI Vector Search in Healthcare  
-**Tools:** Oracle Cloud (Vector Search + Generative AI)  
-- Demonstrated retrieval-augmented generation (RAG) workflows.  
-- Showed how vector databases can improve access to clinical information and decision support.  
+#### 🤖 [AI Vector Search in Healthcare](./AI-Vector-Search-Healthcare/)
+- Demonstrates Oracle Cloud Vector Search + Generative AI (RAG) for clinical knowledge retrieval  
+- Tools: OCI GenAI, Vector Search, Python, LangChain  
+- ![Preview](./AI-Vector-Search-Healthcare/../assets/vector_search_diagram.png)
 
-Quality Improvement Data Tracker  
-**Tools:** Power BI  
-- Designed dashboards for hospital KPI tracking (falls, medication errors, satisfaction).  
-- Automated monthly analytics reporting for leadership teams.  
+#### 📈 [Quality Improvement KPI Tracker](./Quality-Improvement-KPI-Tracker/)
+- Tracks hospital KPIs (falls, medication errors, patient satisfaction)  
+- Tools: Power BI, Excel  
+- ![Preview](./Quality-Improvement-KPI-Tracker/../assets/qi_tracker_screenshot.png)
 
----
 
  Skills Demonstrated  
 - Data Visualization (Oracle Analytics, Power BI)  
