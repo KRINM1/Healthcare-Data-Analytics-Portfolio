@@ -4,8 +4,7 @@
 Analyze 30-day hospital readmission trends and quality metrics using public CMS data.
 
 **Tools Used**  
-Power BI (or Oracle Analytics Cloud), Excel, SQL (optional)
-
+Power BI (or Oracle Analytics Cloud), Excel, SQL
 **Data Source**  
 [CMS Hospital Readmissions Reduction Program (HRRP)](https://data.cms.gov/provider-data/topics/hospital-quality/)
 
